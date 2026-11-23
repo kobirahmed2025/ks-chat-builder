@@ -8,8 +8,7 @@
     <b>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" align="absmiddle" /> Python Backend &nbsp;|&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" height="22" align="absmiddle" /> Telegram Bot (@kobir_dev) &nbsp;|&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" align="absmiddle" /> GitHub &nbsp;|&nbsp;
-      <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="22" height="22" align="absmiddle" /> Vercel
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" align="absmiddle" /> GitHub
     </b>
   </font>
 </p>
@@ -21,10 +20,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=10B981&center=true&vCenter=true&width=640&height=45&lines=Custom+AI+Chat+Builder+Backend+API;Prompt+Flows+%26+Smart+Response+Engine;Crafted+by+%40kobir_dev+%7C+Python+%26+Vercel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=10B981&center=true&vCenter=true&width=640&height=45&lines=Multi-Server+AI+Chat+Builder+API;Vercel+%7C+Render+%7C+Railway+%7C+PythonAnywhere;Crafted+by+%40kobir_dev" alt="Typing SVG" />
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://render.com" target="_blank">
+    <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  </a>
+  <a href="https://railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  </a>
+  <a href="https://www.pythonanywhere.com" target="_blank">
+    <img src="https://img.shields.io/badge/PYTHONANYWHERE-E37733?style=for-the-badge&logo=python&logoColor=white" alt="PythonAnywhere" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://t.me/kobir_dev" target="_blank">
@@ -33,13 +47,21 @@
   <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/VERCEL-DEPLOY-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-AI%20API-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PYTHON-API-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
 </p>
+
+---
+
+## Supported Servers
+
+| Server | Status | Notes |
+| :--- | :--- | :--- |
+| **Vercel** | Ready | Serverless deployment (`vercel.json` + `app.py`) |
+| **Render** | Ready | Web service deployment with Python & `requirements.txt` |
+| **Railway** | Ready | Continuous deployment from GitHub repository |
+| **PythonAnywhere** | Ready | WSGI / Python web app hosting |
 
 ---
 
