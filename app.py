@@ -25,7 +25,7 @@ SYSTEM_PERSONALITY = (
 
 def get_gemini_client():
     """Initialize and return a Gemini client using GEMINI_API_KEY from environment."""
-    api_key = os.environ.get("AQ.Ab8RN6JkEtaamMDk9zK0kVVX6Jkd-vmFQgo27fwXN3WA-1nv5Q", "").strip()
+    api_key = os.environ.get("Gemini api key", "").strip()
     if not api_key:
         return None
     return genai.Client(api_key=api_key)
